@@ -1,0 +1,9 @@
+:root {
+    --blue: red;
+    --padding-top: 25px;
+}
+
+h1 {
+    background-color: var(--blue);
+    padding-top: var(--padding-top);
+}
